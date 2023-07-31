@@ -29,3 +29,8 @@ h3 {
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
 }
+.paragraph-4 {
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
+}
